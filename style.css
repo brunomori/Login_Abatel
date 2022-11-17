@@ -95,7 +95,7 @@ input:not([type="checkbox"]){ /* Campo Usuario e senha */
 
 /*estilo do botão submit */
 input[type="submit"]{
-  width: 100%!important;
+  width: 96%!important;
   cursor: pointer;  
   background: #3E634C;
   padding: 8px 5px;
